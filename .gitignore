@@ -1,0 +1,78 @@
+# Xcode
+.DS_Store
+sti_exam/model/Auth/auth.swift
+sti_exam/ViewModel/SearchViewModel.swift
+sti_exam/Model/Auth/API.swift
+sti_exam/GoogleService-Info.plist
+
+build/
+DerivedData/
+/*.hmap
+/*.ipa
+/*.dSYM.zip
+/*.dSYM/
+
+# Swift Package Manager
+/.build/
+
+# CocoaPods
+/Pods/
+/*.xcworkspace
+/xcuserdata/
+
+# Carthage
+/Carthage/
+
+# Compiled source
+*.pch
+*.o
+*.slo
+*.lo
+*.la
+*.lai
+*.dylib
+*.dll
+*.pyc
+
+# Compiled Swift files
+/swift-*-*/.swift-version
+*.swiftmodule
+*.swiftdoc
+*.swiftsourceinfo
+/*.swiftdoc/
+/*.swiftmodule/
+
+# Package
+*.zip
+*.gz
+
+# Others
+Icon?
+*.lock
+DerivedData/
+
+# Local configuration files
+.idea/
+*.xcuserstate
+*.xccheckout
+
+# Swift package manager artifacts
+/.build/
+
+# Xcode
+/*.xcuserstate
+project.xcworkspace/
+
+# Playgrounds
+.playground/
+
+# Swift Package Manager
+/.build/
+/*.xcodeproj/
+
+# macOS
+.DS_Store
+
+# .env files
+.env*
+
